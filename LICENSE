@@ -1,0 +1,187 @@
+LICENÇA DE USO DA HINA — USO PESSOAL GRATUITO
+Versão 1, 2 de outubro de 2026
+
+Copyright (c) 2026 Project H.I.N.A. Todos os direitos reservados.
+
+A versão em português prevalece. Uma tradução para o inglês segue abaixo.
+
+1. O QUE ESTA LICENÇA COBRE
+
+A Hina (o programa, o servidor local, a interface, as personas originais, os
+textos e a documentação que acompanham o programa) é de propriedade do Project
+H.I.N.A. Esta licença não transfere nenhuma propriedade: ela só permite o uso
+descrito abaixo.
+
+2. O QUE VOCÊ PODE FAZER
+
+Você pode, de graça, baixar, instalar e usar a Hina em computadores seus, para
+uso pessoal e não comercial.
+
+"Uso não comercial" quer dizer não usar a Hina como parte de um produto ou
+serviço vendido, alugado ou prestado a terceiros.
+
+3. O QUE VOCÊ NÃO PODE FAZER
+
+Sem autorização por escrito do Project H.I.N.A., você não pode:
+
+a) copiar a Hina além do necessário para instalar e usar;
+b) redistribuir, vender, alugar, emprestar, sublicenciar ou disponibilizar a
+   Hina a terceiros, inclusive por download ou em outro pacote;
+c) modificar, traduzir ou criar obras derivadas da Hina;
+d) fazer engenharia reversa, descompilar ou desmontar a Hina, exceto na medida
+   em que a lei aplicável permitir expressamente, mesmo com esta restrição;
+e) remover ou alterar avisos de direitos autorais, marcas ou licenças;
+f) usar a Hina para violar a lei ou os termos dos serviços que você conectar a
+   ela.
+
+4. COMPONENTES DE TERCEIROS
+
+A Hina inclui componentes de terceiros, cada um com a sua própria licença,
+listados em THIRD-PARTY-NOTICES.md e com os textos completos na pasta
+"licenses" do programa instalado. Esta licença não se aplica a esses
+componentes e não restringe nenhum direito que as licenças deles dão a você.
+Em especial, as bibliotecas sob a LGPL ficam como arquivos separados dentro do
+programa, e você pode substituí-las por versões modificadas, como essa licença
+permite.
+
+5. SERVIÇOS DE TERCEIROS E SUAS CHAVES
+
+A Hina funciona com chaves de API que você obtém e paga diretamente aos
+provedores (por exemplo, Google, Groq, ElevenLabs, Deepgram). O uso desses
+serviços é regido pelos termos de cada provedor. O que a Hina envia a eles está
+descrito na política de privacidade:
+https://github.com/Project-H-I-N-A/hina-releases/blob/main/PRIVACY.md
+
+6. AÇÕES NO SEU COMPUTADOR
+
+Com o agente ligado, a Hina pode ler e gravar arquivos, executar comandos e
+operar programas no seu computador. Ações que escrevem, apagam ou executam
+pedem a sua confirmação, a não ser que você marque "sempre permitir". Você é
+responsável pelo que autorizar.
+
+7. SEM GARANTIA
+
+A Hina é fornecida "no estado em que se encontra", sem garantia de qualquer
+tipo, expressa ou implícita, incluindo garantias de funcionamento, adequação a
+um fim específico ou ausência de erros, na máxima extensão permitida pela lei
+aplicável.
+
+8. LIMITAÇÃO DE RESPONSABILIDADE
+
+Na máxima extensão permitida pela lei aplicável, o Project H.I.N.A. não
+responde por danos indiretos, perda de dados, lucros cessantes ou cobranças
+dos provedores de serviço decorrentes do uso da Hina. Nada nesta licença
+afasta direitos que a lei garante ao consumidor e que não podem ser
+renunciados.
+
+9. FIM DA LICENÇA
+
+Esta licença termina automaticamente se você descumprir qualquer item dela.
+Nesse caso, você deve parar de usar a Hina e apagar as cópias que tiver.
+
+10. VERSÕES ANTERIORES
+
+Versões distribuídas antes desta licença sob a GNU GPL versão 3 continuam
+regidas por ela para quem as recebeu. Esta licença vale a partir da versão em
+que aparece.
+
+11. MUDANÇAS
+
+Mudanças nesta licença são publicadas com a versão da Hina que as traz e valem
+para essa versão em diante.
+
+Contato: https://github.com/Project-H-I-N-A/hina-releases/issues
+
+
+----------------------------------------------------------------------------
+
+HINA LICENSE — FREE PERSONAL USE
+Version 1, October 2, 2026
+
+Copyright (c) 2026 Project H.I.N.A. All rights reserved.
+
+This is a translation. If it differs from the Portuguese version above, the
+Portuguese version prevails.
+
+1. WHAT THIS LICENSE COVERS
+
+Hina (the program, the local server, the interface, the original personas,
+and the texts and documentation that come with the program) is owned by
+Project H.I.N.A. This license transfers no ownership: it only allows the use
+described below.
+
+2. WHAT YOU MAY DO
+
+You may download, install and use Hina free of charge on your own computers,
+for personal, non-commercial use.
+
+"Non-commercial use" means not using Hina as part of a product or service that
+is sold, rented or provided to others.
+
+3. WHAT YOU MAY NOT DO
+
+Without written permission from Project H.I.N.A., you may not:
+
+a) copy Hina beyond what is needed to install and use it;
+b) redistribute, sell, rent, lend, sublicense or make Hina available to
+   others, including by download or inside another package;
+c) modify, translate or create derivative works of Hina;
+d) reverse engineer, decompile or disassemble Hina, except to the extent the
+   applicable law expressly allows it despite this restriction;
+e) remove or change copyright, trademark or license notices;
+f) use Hina to break the law or the terms of the services you connect to it.
+
+4. THIRD-PARTY COMPONENTS
+
+Hina includes third-party components, each under its own license, listed in
+THIRD-PARTY-NOTICES.md and with the full texts in the "licenses" folder of the
+installed program. This license does not apply to those components and does
+not restrict any right their licenses give you. In particular, the libraries
+under the LGPL stay as separate files inside the program, and you may replace
+them with modified versions, as that license allows.
+
+5. THIRD-PARTY SERVICES AND YOUR KEYS
+
+Hina works with API keys that you obtain from and pay directly to the
+providers (for example Google, Groq, ElevenLabs, Deepgram). Your use of those
+services is governed by each provider's terms. What Hina sends to them is
+described in the privacy policy:
+https://github.com/Project-H-I-N-A/hina-releases/blob/main/PRIVACY.en.md
+
+6. ACTIONS ON YOUR COMPUTER
+
+With the agent on, Hina can read and write files, run commands and operate
+programs on your computer. Actions that write, delete or run something ask for
+your confirmation unless you tick "always allow". You are responsible for what
+you authorize.
+
+7. NO WARRANTY
+
+Hina is provided "as is", without warranty of any kind, express or implied,
+including warranties of operation, fitness for a particular purpose or absence
+of errors, to the maximum extent permitted by applicable law.
+
+8. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, Project H.I.N.A. is not
+liable for indirect damages, data loss, lost profits or service provider
+charges arising from the use of Hina. Nothing in this license removes
+consumer rights that the law guarantees and that cannot be waived.
+
+9. END OF THE LICENSE
+
+This license ends automatically if you break any of its terms. In that case
+you must stop using Hina and delete the copies you have.
+
+10. EARLIER VERSIONS
+
+Versions distributed before this license under the GNU GPL version 3 remain
+governed by it for those who received them. This license applies from the
+version in which it appears.
+
+11. CHANGES
+
+Changes to this license are published with the Hina version that brings them
+and apply to that version onward.
+
+Contact: https://github.com/Project-H-I-N-A/hina-releases/issues
