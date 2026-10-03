@@ -10,9 +10,10 @@ atualização. Não existe servidor da Hina recebendo os seus dados.
 
 ## 1. Quem é responsável
 
-A Hina é mantida pelo **Project H.I.N.A.** e é software livre (GPLv3). Ela não tem conta de usuário,
-não pede cadastro e não cobra nada: as chaves de API são suas, e cada provedor cobra você
-diretamente.
+A Hina é mantida pelo **Project H.I.N.A.** e é gratuita para uso pessoal
+([licença](https://github.com/Project-H-I-N-A/hina-releases/blob/main/LICENSE)). Ela não tem conta
+de usuário, não pede cadastro e não cobra nada: as chaves de API são suas, e cada provedor cobra
+você diretamente.
 
 Contato: abra uma issue em
 [github.com/Project-H-I-N-A/hina-releases/issues](https://github.com/Project-H-I-N-A/hina-releases/issues).
