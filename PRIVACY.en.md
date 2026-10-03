@@ -10,9 +10,10 @@ server receiving your data.
 
 ## 1. Who is responsible
 
-Hina is maintained by **Project H.I.N.A.** and is free software (GPLv3). It has no user account,
-asks for no sign-up and charges nothing: the API keys are yours, and each provider bills you
-directly.
+Hina is maintained by **Project H.I.N.A.** and is free for personal use
+([license](https://github.com/Project-H-I-N-A/hina-releases/blob/main/LICENSE)). It has no user
+account, asks for no sign-up and charges nothing: the API keys are yours, and each provider bills
+you directly.
 
 Contact: open an issue at
 [github.com/Project-H-I-N-A/hina-releases/issues](https://github.com/Project-H-I-N-A/hina-releases/issues).
